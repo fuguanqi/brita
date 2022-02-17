@@ -9,7 +9,7 @@ caffe
 Image Aesthetic is predicted based on the model of [deepImageAestheticsAnalysis](https://github.com/aimerykong/deepImageAestheticsAnalysis).
 
 ## Text Aesthetic
-Text Aesthetic is measured on a Simiplified Chinese LIWC Service, [TextMind](http://ccpl.psych.ac.cn/textmind/). File text.py provides a spider to query for the number of words belong to caregory "perception".
+Text Aesthetic is measured on a Simiplified Chinese LIWC Service, [TextMind](http://ccpl.psych.ac.cn/textmind/). File text.py provides a spider to query for the number of words belonging to caregory "perception".
 
 ## Bounce Rate Prediction
 Bounce Rate canbe predicted by Model 2 or 3, based on Image & Text Aesthestics.
