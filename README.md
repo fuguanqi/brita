@@ -12,7 +12,7 @@ Image Aesthetic is predicted based on the model of [deepImageAestheticsAnalysis]
 Text Aesthetic is measured on a Simiplified Chinese LIWC Service, [TextMind](http://ccpl.psych.ac.cn/textmind/). File text.py provides a spider to query for the number of words belonging to caregory "perception" which is used for measuring text aesthetic score.
 
 ## Bounce Rate Prediction
-Bounce Rate canbe predicted by Model 2 or 3, based on Image & Text Aesthestics.
+Bounce Rate can be predicted by Model 2 or 3, based on Image & Text Aesthestics.
 
 ## Usage
 An example calling this module is given by example.py
