@@ -1,5 +1,5 @@
 # brita - Bounce Rate Prediction on Image & Text Aesthestics
-This project is only for academic use. Considerations of commercial use is discouraged.
+This project is only for academic use. Considerations of commercial use is discouraged. The caffe model file is oversized for github and can be downloaded from https://pan.baidu.com/s/1AUOA0Hlbzc4cwInS_5uRSA?pwd=x1gv (提取码：x1gv)
 
 ## Running environment
 python 2.7  
