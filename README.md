@@ -1,4 +1,4 @@
-# ita - Bounce Rate Prediction on Image & Text Aesthestics
+# brita - Bounce Rate Prediction on Image & Text Aesthestics
 This project is only for academic use. Considerations of commercial use is discouraged.
 
 ## Running environment
