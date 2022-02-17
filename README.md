@@ -6,7 +6,7 @@ python 2.7
 caffe
 
 ## Image Aesthetic
-Image Aesthetic is predicted based on the model of [deepImageAestheticsAnalysis](https://github.com/aimerykong/deepImageAestheticsAnalysis).
+Image Aesthetic is predicted based on the well trained model of [deepImageAestheticsAnalysis](https://github.com/aimerykong/deepImageAestheticsAnalysis).
 
 ## Text Aesthetic
 Text Aesthetic is measured on a Simiplified Chinese LIWC Service, [TextMind](http://ccpl.psych.ac.cn/textmind/). File text.py provides a spider to query for the number of words belonging to caregory "perception" which is used for measuring text aesthetic score.
